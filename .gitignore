@@ -1,4 +1,5 @@
 # Node
 /node_modules
+/src/controllers/assetss
 npm-debug.log
 yarn-error.log
